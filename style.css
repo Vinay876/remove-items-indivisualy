@@ -1,0 +1,21 @@
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: aquamarine;
+}
+
+.btn {
+  background-color: aliceblue;
+  height: 30px;
+  text-align: center;
+  width: 20rem;
+  font-size: 20px;
+  border-radius: 10%;
+  box-shadow: 3px 2px 2px 2px;
+}
